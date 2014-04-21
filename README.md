@@ -1,3 +1,5 @@
+Author: Damià Crosas
+
 CursFrontend
 ============
 
